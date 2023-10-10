@@ -1,0 +1,109 @@
+Q1- Java is developed by james Gosling at ____ , which 
+    was latter acquired by the ___ corporation.
+    
+    a) Sun Microsystem , oracle
+    b) Oracle, Sun Microsystem   
+    c) IBM,Oracle 
+    d) IBM, Microsoft
+    Ans-a
+
+Q2- Choose the correct order?
+    i>   JVM
+    ii>  Compiler
+    iii> Machine code
+    iv>  Bytecode
+
+    a) 2-4-1-3     b) 1-2-3-4
+    c) 4-3-2-1     d) 2-3-1-4
+    Ans-a
+
+Q3- Java is an---
+    i>   High level language
+    ii>  Low level 
+    iii> Class based
+    iv>  Object oriented language
+
+    Choose the wrong option-
+    a) 1     b) 2
+    c) 3     d) All
+    Ans-b
+
+Q4- Is public static void main (string[] args) is  
+    same as public static void main (string args[])?
+   
+    a) Yes     
+    b) No
+    Ans-a
+
+Q5- Find the output?
+    public classs main{
+    public static void main(String[] args){
+        int i=5;
+        i++;
+        i++;
+        i--;
+        ++i;
+        --i;
+        system.out.println(i);
+     }    
+
+    a) 1     b) 3
+    c) 6     d) 5
+    Ans-c
+
+
+Q6- What if we give a insted of args?
+    i.e public static void main (string[] a)
+    
+    a)It will show an error 
+    b) It will run 
+    c) None of the above
+    Ans-b
+ 
+Q7- Which of the correct option for printing the pattern?      
+    *
+    **
+    ***
+    a) system.out.print("**\n*\n***");
+    b) system.out.print("****\n*\n*");
+    c) system.out.print("*\n**\n***");
+    d) system.out.print("***\n*\n**");
+    Ans-c
+
+Q8- Is this a valid statement?
+    public static void main (string[] args)
+
+    a) Yes     
+    b) No
+    Ans-b
+
+Q9- What will be output of the following code?
+
+    class increment {
+    public static void main(String args[]) {
+          int a=3;
+             a++;
+             
+        System.out.println(a++ * 5);
+       }
+    }
+ 
+     a) 5      b) 10
+     c) 15     d) 20
+     Ans-d
+
+Q10- what is the output of following code?
+
+     public class Main {
+       public static void main (String[] args) {
+        String s = "Exam:" +9+9+9;
+        System.out.println(s);
+        }
+      }
+
+     a)Exam 27      b)Exam:27
+     c)Exam 999      d)Exam:999
+     Ans-d
+
+
+
