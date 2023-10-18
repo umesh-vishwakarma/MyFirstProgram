@@ -1,11 +1,11 @@
 
 Q1- The break statement is used to.......,and 
     The continue statement is used to.......... 
- a)Terminates from the loop immediately
+ a)Terminates from the loop immediately , Skips the current iteration
  b)Terminates from the program immediately
  c)Skips the current iteration
  d)All of these
- Ans-a and c
+ Ans-a
 
 
 Q2- what is the output of the following code?
@@ -24,7 +24,7 @@ A. 1
 B. 0
 C. 10
 D. 9
-Ans-0
+Ans-b
 
 
 Q3- Which of the following is used with the switch statement?
