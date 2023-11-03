@@ -1,0 +1,95 @@
+Q1- What is the output of following code?
+class Main { 
+    public static void main(String args[]) {    
+       System.out.println(fun()); 
+      }  
+   
+      int fun() 
+    { 
+      return 20; 
+    } 
+  } 
+(a) 20
+(b) compiler error
+(c) 0
+(d) garbage value
+Ans-b
+
+Q2- In Java, can we make functions inline like C++?
+(a) Yes
+(b) No
+Ans-b
+
+Q3- Which of these is a super class of all errors and exceptions in the Java language?
+(a) Run Time Exceptions
+(b) Throwable
+(c) Catchable
+(d) None of the above
+Ans-b
+
+Q4- The built-in base class in Java, which is used to handle all exceptions is
+(a) Raise
+(b) Exception
+(c) Error
+(d) Throwable
+Ans-d
+
+Q5- What is the return type of a method that does not return any value?
+(a) int
+(b) float
+(c) void
+(d) double
+Ans-c
+
+
+Q6- Which method can be defined only once in a program?
+(a) main method
+(b) finalize method
+(c) static method
+(d) private method
+Ans-a
+
+Q7- What is the syntax of a continue is a single statement inside any loop?
+(a) Jump
+(b) Continue
+(c) Con
+(d) State-Continue
+ Ans-b
+
+ Q8- What is the return type of the hash Code() method in the Object class?
+(a)Object
+(b)int
+(c)long
+(d)void
+ Ans-b
+
+Q9-  Which of these keywords is not a part of exception handling?
+(a) try
+(b) finally
+(c) thrown
+(d) catch
+Ans-c
+
+Q10- What will be the output of the following code?
+    class exception handling 
+    {
+        public static void main(String args[])
+        {
+            try
+           {
+                int a ,b;
+                b =0;
+                a =5/b;
+                system.out.print("A");
+            }
+            catch(Arithmeti cexceptione)
+            {
+        	system.out.print("B");
+            }
+        }
+    }
+(a) A
+(b) B
+(c) Compilation Error
+(d) Runtime Error
+Ans-b
