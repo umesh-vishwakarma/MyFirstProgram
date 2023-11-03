@@ -1,0 +1,69 @@
+Q1- Which keyword allows inheritance?
+(a)extend
+(b)extends
+(c)for
+(d)protected
+Ans-b
+
+Q2- How can encapsulation be achieved?
+(a)using access specifier
+(b) Using only private number
+(c)Using inheritance
+(d)Using Abstraction
+Ans-a
+
+Q3- What is the  purpose of an abstraction class ?
+(a)To provide help with database connectivity
+(b)To provide data input to other classes
+(c)To provide security to other classes
+(d) To provide an appropriate base class from which other classes can inherit
+Ans-d
+
+Q4- What is the main role of a getter method?
+(a) To create a new attribute
+(b) To retrieve the value of a private attribute
+(c) To update an attribute's value
+(d) To remove the attribute's value
+Ans-b
+
+Q5- Which of these is a primary advantage of encapsulation?
+(a) Increases code complexity
+(b) Enhances performance
+(c) Code redundancy
+(d) Improved control over data access and modification
+Ans-d
+
+Q6- Which access modifier restricts access to the same package?
+(a) public
+(b) protected
+(c) private
+(d) default
+Ans-d
+
+Q7- What is abstraction in Java?
+(a) Hiding data details
+(b) Hiding method implementations
+(c) Showing essential features
+(d) Exposing all details
+Ans-c
+
+Q8- An abstract class cannot be instantiated because it contains…
+(a) Abstract methods
+(b) Private methods
+(c) Static methods
+(d) Public methods
+Ans-a
+
+Q9- Which concept provides a blueprint for a class?
+(a) Polymorphism
+(b) Inheritance
+(c) Encapsulation
+(d) Abstraction
+Ans-b
+
+Q10- What are the features reused using Inheritance in Java?
+(a) Methods
+(b) Variables
+(c) Constants
+(d) All the above
+Ans-d
