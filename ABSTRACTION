@@ -1,0 +1,92 @@
+Q1- Which of these is not abstract?
+(a) Thread
+(b) Abstract List
+(c) List
+(d) None of the Mentioned
+Ans-a
+
+Q2- Which of these is not a correct statement?
+(a) Every class containing abstract method must be declared abstract
+(b) Abstract class defines only the structure of the class not its implementation
+(c) Abstract class can be initiated by new operator
+(d) Abstract class can be inherited
+Ans-c
+
+Q3- Which of these packages contains abstract keyword?
+(a) java.lang
+(b) java.util
+(c) java.io
+(d) java.system
+Ans-a
+
+Q4- What is the syntax of abstract class in java?
+(a) abstract A{}
+(b) abstract class A
+(c) abstract class A{}
+(d) abstract class A[]
+Ans-c
+
+Q5- An abstract class in Java can be created using the keyword……………………… .
+(a) final
+(b) interface
+(c) abstract
+(d) static
+Ans-c
+
+Q6- Which is the opposite of an Abstract Class?
+(a) Interface
+(b) concrete class
+(c) a or b
+(d) none
+Ans-b
+
+Q7- An abstract class in Java usually contains one or more abstract……………………… .  
+(a) constructors
+(b) methods
+(c) variables
+(d) None
+Ans-b
+
+Q8- Does the below code with abstract method compile? 
+                           class Puppy
+                      {
+                      abstract void showName();
+                         }
+(a) NO
+(b) YES
+(c) a or b
+(d) none
+Ans-a
+Explanation: 
+No. An abstract method can be defined only by an abstract class.
+
+
+Q9- An abstract class with 100% abstract methods is equivalent to……………… .
+(a) Concrete class
+(b) Virtual Class
+(c) Interface
+(d) All the above
+Ans-c
+
+Q10- What is the output of the below Java program with an abstract class? 
+
+public abstract class AbstractClassTest5
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Inside Main() method..");
+  }
+}
+
+(a) No output
+(b) Compiler error
+(c) Inside Main() method..
+(d) None of the above
+Ans-c
+
+Q11- Choose a correct statement about abstract classes?
+A) An abstract class can extend a concrete class
+B) An abstract class can extend another abstract class
+C) An abstract class can implement any number of interfaces.
+D) All the above.
+Ans-d
