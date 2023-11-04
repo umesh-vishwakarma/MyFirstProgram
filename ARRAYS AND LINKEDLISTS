@@ -1,0 +1,77 @@
+Q1- What is the highest index of an array with 10 elements in Java?
+(a)9
+(b)10
+(c)0
+(d)1
+Ans-a
+
+Q2- Which of these is necessary to specify at time of array initialization?
+(a)Row
+(b)Column
+(c)Both Row and Column
+(d)None of the mentioned
+Ans-a
+
+
+Q3- In Java, arrays are objects of which class?
+(a)Array
+(b)Collection
+(c)ArrayList
+(d)None of the above
+Ans-d
+
+Q4- How do you declare a one-dimensional array in Java?
+(a)int[] myArray;
+(b)int myArray[];
+(c)Array myArray;
+(d)All of the above
+Ans-a
+
+Q5- Which of the following is not a type of Linked List? 
+(a)Sorted linked list 
+(b)Unsorted linked list 
+(c)Balanced linked list 
+(d)Circular linked list 
+Ans-c
+
+Q6- What does a Linked List node not contain? 
+(a) A pointer to the next node 
+(b) A pointer to the previous node 
+(c) Data 
+(d) A pointer to the linked list 
+Ans-d
+
+Q7- What is the disadvantage of a Linked List? 
+(a) Dynamic size 
+(b) Ease of insertion/deletion 
+(c) Random access is not allowed 
+D) None of the above 
+Ans-c
+
+ Q8- Which of these is an application of linked lists?
+(a)To implement file systems
+(b)For separate chaining in hash-tables
+(c)To implement non-binary trees
+(d)All of the mentioned
+Ans-d
+
+Q9- Linked list is considered as an example of ……….. type of memory allocation.
+(a)Dynamic
+(b)Static
+(c)Compile time
+(d)None of the mentioned
+Ans-a
+
+Q10- The smallest element of an array's index is called its
+(a)lower bound.
+(b)upper bound.
+(c)range.
+(d)extraction.
+Ans-a
+
+Q11- The largest element of an array index is called its
+(a)lower bound.
+(b)range.
+(c)upper bound.
+(d)All of these.
+Ans-c
