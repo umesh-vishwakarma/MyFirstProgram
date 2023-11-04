@@ -1,0 +1,111 @@
+Q1- Polymorphism is also possible in C language is it correct.
+(a) Yes
+(b) No
+(c) both A&B
+(d) none of these
+ Ans-a
+
+Q2- What will be the output of the following program?
+      public class PolymorphismDemoClass {
+            voidadd(intx, inty){
+                    System.out.println("1. Addition is: " +(x+y));
+                }
+                 voidadd(inty, intx)
+         {
+                 System.out.println("2. Addition is: " -(x+y)); 
+       }
+           publicstaticvoidmain(String[] args)
+          { 
+              PolymorphismDemoClass obj = new PolymorphismDemoClass(); 
+          obj.add(20, 30);
+          }  
+         }
+(a)Compile time error
+(b)50
+(c)30
+(d)Runtime error
+Ans-a
+
+
+Q3- Which feature comes under compile time polymorphism?
+(a)Method overloading
+(b)Constructor overloading
+(c)Method overriding
+(d)Both A and B
+(e)Bothe A and C
+Ans-d
+
+
+Q4- What does the word 'Polymorphism' mean in Greek?
+(a) Many forms
+(b) Single form
+(c) No form
+(d) Final form
+Ans-a
+
+Q5- Which of these allows compile-time polymorphism?
+(a) Method overloading
+(b) Method overriding
+(c) Both
+(d) None of the above
+Ans-a
+
+Q6-What will be the output of the following program?
+public classPolymorphismDemoClass2{
+ void m1(Stringx){
+ System.out.println("One");
+ } 
+protected void m1(Stringx, Stringy){ 
+System.out.println("Two"); 
+} 
+public static void main(String[] args){
+ PolymorphismDemoClass2 obj = new PolymorphismDemoClass2();
+ obj.m1("ABC"); 
+obj.m1("PQR", "XYZ"); 
+} 
+}
+(a)Two One
+(b)One Two
+(c)Compile time error
+(d)Runtime error
+Ans-b
+
+Q7-What will be the output of the following code ?
+      public class Main {
+    public static void main(String[] args) {
+     String str = "Hello";
+        str = "PU";
+           System.out.println(str);
+         }
+      }
+(a)PU
+(b)Bye
+(c)Error
+(d)All of these
+Ans-a
+
+Q8- 
+What is the output of this code
+      public class Array {
+        public static void main(String[] args){
+               float[] a = new float[3];
+                   float x = 0, y = x;
+            for(int i=0; i<a.length; i++){
+           x += a[i];
+       }
+            System.out.print(y += x/a.length);
+      }
+              }
+a) An exception will be thrown
+b) 3.0
+c) 0.0
+d) There is no output
+Ans-c
+
+ 
+Q9- Which one of the following can show polymorphism?
+(a)Overloading ||
+(b)Overloading &&
+(c)Overloading <<
+(d)Overloading +=
+Ans-c
